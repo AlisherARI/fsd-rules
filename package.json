@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-fsd-rules",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Eslint rules for FSD methodology",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "8.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisherARI/fsd-rules.git"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "eslint",
+    "fsd"
+  ],
+  "author": "AlisherARI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlisherARI/fsd-rules/issues"
+  },
+  "homepage": "https://github.com/AlisherARI/fsd-rules",
+  "publishConfig": {
+    "access": "public"
+  }
+}
