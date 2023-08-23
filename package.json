@@ -4,9 +4,6 @@
   "private": false,
   "description": "Eslint rules for FSD methodology",
   "main": "index.js",
-  "peerDependencies": {
-    "eslint": "^8.14.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlisherARI/fsd-rules.git"
