@@ -1,6 +1,6 @@
 {
   "name": "@alisher_ari/eslint-plugin-fsd-rules",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "Eslint rules for FSD methodology",
   "main": "index.js",
