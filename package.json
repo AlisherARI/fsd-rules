@@ -1,11 +1,11 @@
 {
-  "name": "eslint-plugin-fsd-rules",
+  "name": "@alisher_ari/eslint-plugin-fsd-rules",
   "version": "1.0.0",
   "private": false,
   "description": "Eslint rules for FSD methodology",
   "main": "index.js",
   "peerDependencies": {
-    "eslint": "8.14.0"
+    "eslint": "^8.14.0"
   },
   "repository": {
     "type": "git",
